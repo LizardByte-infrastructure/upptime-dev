@@ -12,9 +12,6 @@ workflowSchedule:
   uptime: "*/10 * * * *"  # every 10 minutes
 
 sites:
-  - name: Canonical and Ubuntu Status
-    url: https://status.canonical.com/
-    __dangerous__body_degraded_if_text_missing: 'All components are Operational'
   - name: Codecov Status
     url: https://status.codecov.com/
     __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
