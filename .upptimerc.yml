@@ -18,6 +18,9 @@ sites:
   - name: crowdin Status
     url: https://status.crowdin.com/
     __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
+  - name: Docker System Status
+    url: https://www.dockerstatus.com/
+    __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
   - name: Fedora Infrastructure Status
     url: https://status.fedoraproject.org/
     icon: https://fedoraproject.org/favicon.ico
