@@ -1,36 +1,78 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+---
+owner: LizardByte-infrastructure  # Your GitHub organization or username, where this repository lives
+repo: upptime-dev  # The name of this repository
+
+workflowSchedule:
+  graphs: "0 0 * * *"  # every day at midnight
+  responseTime: "0 23 * * *"  # every day at 11pm
+  staticSite: "0 1 * * *"  # every day at 1am
+  summary: "0 0 * * *"  # every day at midnight
+  updateTemplate: "0 0 * * *"  # every day at midnight
+  updates: "0 3 * * *"  # every day at 3am
+  uptime: "*/10 * * * *"  # every 10 minutes
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Codecov Status
+    url: https://status.codecov.com/
+    __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
+  - name: crowdin Status
+    url: https://status.crowdin.com/
+    __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
+  - name: Fedora Infrastructure Status
+    url: https://status.fedoraproject.org/
+    icon: https://fedoraproject.org/favicon.ico
+    __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
+  - name: GitHub Status
+    url: https://www.githubstatus.com/
+    __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
+  - name: npm Status
+    url: https://status.npmjs.org/
+    __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
+  - name: Python Infrastructure Status
+    url: https://status.python.org/
+    __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
+  - name: Read the Docs Status
+    url: https://status.readthedocs.com/
+    __dangerous__body_degraded: 'Current status: Degraded'  # TODO: this is probably not correct
+  - name: SonarCloud Status
+    url: https://sonarcloud.statuspage.io/
+    __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status-dev.lizardbyte.dev
+  # baseUrl: /upptime-dev
+  favicon: https://raw.githubusercontent.com/LizardByte/.github/master/branding/logos/logo-32x32.png
+  logoUrl: https://raw.githubusercontent.com/LizardByte/.github/master/branding/logos/logo.svg
+  name: LizardByte Status (Dev)
+  introTitle: "**LizardByte (infrastructure)** status page"
+  introMessage: This is a status page for the LizardByte development stack.
   navbar:
+    - title: Help
+      href: https://app.lizardbyte.dev/support
+    - title: Community
+      href: https://github.com/orgs/LizardByte/discussions
     - title: Status
+      href: https://status.lizardbyte.dev
+    - title: Status (Dev)
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: night
+  # custom js
+  scripts:
+    - src: https://cdn.jsdelivr.net/npm/@lizardbyte/shared-web@latest/dist/discord.js
+  js: "window.onload = function() { window.initDiscord() }"
+
+# https://upptime.js.org/docs/configuration#repository-metadata
+skipDescriptionUpdate: false
+skipTopicsUpdate: true
+skipHomepageUpdate: false
+
+# https://upptime.js.org/docs/configuration/#skip-delete-issues
+skipDeleteIssues: true
 
 # Upptime also supports notifications, assigning issues, and more
+# The values need to be added as repository secrets
 # See https://upptime.js.org/docs/configuration
