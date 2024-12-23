@@ -1,7 +1,7 @@
 url: https://status.readthedocs.com/
-status: up
-code: 200
-responseTime: 516
-lastUpdated: 2024-12-22T23:13:33.063Z
+status: down
+code: 502
+responseTime: 395
+lastUpdated: 2024-12-23T09:39:05.329Z
 startTime: 2024-12-22T15:21:09.602Z
 generator: Upptime <https://github.com/upptime/upptime>
