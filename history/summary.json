@@ -1,9 +1,9 @@
 [
   {
-    "name": "Codecov Status",
+    "name": "Codecov",
     "url": "https://status.codecov.com/",
     "icon": "https://icons.duckduckgo.com/ip3/status.codecov.com.ico",
-    "slug": "codecov-status",
+    "slug": "codecov",
     "status": "up",
     "uptime": "98.20%",
     "uptimeDay": "86.21%",
@@ -22,10 +22,10 @@
     }
   },
   {
-    "name": "crowdin Status",
+    "name": "crowdin",
     "url": "https://status.crowdin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/status.crowdin.com.ico",
-    "slug": "crowdin-status",
+    "slug": "crowdin",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -40,10 +40,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Docker System Status",
+    "name": "Docker Infrastructure",
     "url": "https://www.dockerstatus.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dockerstatus.com.ico",
-    "slug": "docker-system-status",
+    "slug": "docker-infrastructure",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -58,10 +58,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Fedora Infrastructure Status",
+    "name": "Fedora Infrastructure",
     "url": "https://status.fedoraproject.org/",
     "icon": "https://fedoraproject.org/favicon.ico",
-    "slug": "fedora-infrastructure-status",
+    "slug": "fedora-infrastructure",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -76,10 +76,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Flathub Status",
+    "name": "Flathub",
     "url": "https://status.flathub.org/",
     "icon": "https://icons.duckduckgo.com/ip3/status.flathub.org.ico",
-    "slug": "flathub-status",
+    "slug": "flathub",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -94,10 +94,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "GitHub Status",
+    "name": "GitHub",
     "url": "https://www.githubstatus.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
-    "slug": "git-hub-status",
+    "slug": "git-hub",
     "status": "up",
     "uptime": "98.79%",
     "uptimeDay": "86.21%",
@@ -115,10 +115,10 @@
     }
   },
   {
-    "name": "npm Status",
+    "name": "npm",
     "url": "https://status.npmjs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/status.npmjs.org.ico",
-    "slug": "npm-status",
+    "slug": "npm",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -133,10 +133,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Python Infrastructure Status",
+    "name": "Python Infrastructure",
     "url": "https://status.python.org/",
     "icon": "https://icons.duckduckgo.com/ip3/status.python.org.ico",
-    "slug": "python-infrastructure-status",
+    "slug": "python-infrastructure",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -151,10 +151,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Read the Docs Status",
+    "name": "Read the Docs",
     "url": "https://status.readthedocs.com/",
     "icon": "https://icons.duckduckgo.com/ip3/status.readthedocs.com.ico",
-    "slug": "read-the-docs-status",
+    "slug": "read-the-docs",
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
@@ -173,10 +173,10 @@
     }
   },
   {
-    "name": "SonarCloud Status",
+    "name": "SonarCloud",
     "url": "https://sonarcloud.statuspage.io/",
     "icon": "https://icons.duckduckgo.com/ip3/sonarcloud.statuspage.io.ico",
-    "slug": "sonar-cloud-status",
+    "slug": "sonar-cloud",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",

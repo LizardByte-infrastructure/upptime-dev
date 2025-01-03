@@ -12,35 +12,39 @@ workflowSchedule:
   uptime: "*/10 * * * *"  # every 10 minutes
 
 sites:
-  - name: Codecov Status
+  - name: Codecov
     url: https://status.codecov.com/
     __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
-  - name: crowdin Status
+  - name: crowdin
     url: https://status.crowdin.com/
     __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
-  - name: Docker System Status
+  - name: Docker Infrastructure
     url: https://www.dockerstatus.com/
     __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
-  - name: Fedora Infrastructure Status
+  - name: Fedora Infrastructure
     url: https://status.fedoraproject.org/
     icon: https://fedoraproject.org/favicon.ico
     __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
-  - name: Flathub Status
+  - name: Flathub
     url: https://status.flathub.org/
     __dangerous__body_degraded_if_text_missing: 'No issues detected'
-  - name: GitHub Status
+  - name: GitHub
     url: https://www.githubstatus.com/
     __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
-  - name: npm Status
+  - name: npm
     url: https://status.npmjs.org/
     __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
-  - name: Python Infrastructure Status
+  - name: Python Infrastructure
     url: https://status.python.org/
     __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
-  - name: Read the Docs Status
-    url: https://status.readthedocs.com/
+  - name: Read the Docs
+    url: https://status.readthedocs.com/checks?sEcho=1&iColumns=1&sColumns=status&iDisplayStart=0&iDisplayLength=50
+    headers:
+      - "Accept: application/json"
+      - "X-Requested-With: XMLHttpRequest"
+      - "Referer: https://status.readthedocs.com/"
     __dangerous__body_degraded: 'Current status: Degraded'  # TODO: this is probably not correct
-  - name: SonarCloud Status
+  - name: SonarCloud
     url: https://sonarcloud.statuspage.io/
     __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
 
