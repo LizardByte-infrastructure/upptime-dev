@@ -4,18 +4,20 @@
     "url": "https://status.codecov.com/",
     "icon": "https://icons.duckduckgo.com/ip3/status.codecov.com.ico",
     "slug": "codecov",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 238,
-    "timeWeek": 320,
-    "timeMonth": 320,
-    "timeYear": 320,
-    "dailyMinutesDown": {}
+    "time": 354,
+    "timeDay": 380,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 354,
+    "dailyMinutesDown": {
+      "2025-01-07": 0
+    }
   },
   {
     "name": "crowdin",
@@ -94,18 +96,20 @@
     "url": "https://www.githubstatus.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 205,
-    "timeWeek": 193,
-    "timeMonth": 193,
-    "timeYear": 193,
-    "dailyMinutesDown": {}
+    "time": 182,
+    "timeDay": 168,
+    "timeWeek": 182,
+    "timeMonth": 182,
+    "timeYear": 182,
+    "dailyMinutesDown": {
+      "2025-01-07": 0
+    }
   },
   {
     "name": "npm",
