@@ -42,18 +42,20 @@
     "url": "https://www.dockerstatus.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dockerstatus.com.ico",
     "slug": "docker-infrastructure",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 149,
-    "timeWeek": 191,
-    "timeMonth": 191,
-    "timeYear": 191,
-    "dailyMinutesDown": {}
+    "time": 197,
+    "timeDay": 194,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
+    "dailyMinutesDown": {
+      "2025-01-08": 0
+    }
   },
   {
     "name": "Fedora Infrastructure",
