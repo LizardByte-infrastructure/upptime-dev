@@ -43,7 +43,7 @@ sites:
       - "Accept: application/json"
       - "X-Requested-With: XMLHttpRequest"
       - "Referer: https://status.readthedocs.com/"
-    __dangerous__body_degraded: 'Current status: Degraded'  # TODO: this is probably not correct
+    __dangerous__body_degraded: 'Current status: Down'
   - name: SonarCloud
     url: https://sonarcloud.statuspage.io/
     __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
