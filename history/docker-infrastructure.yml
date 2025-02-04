@@ -1,7 +1,7 @@
 url: https://www.dockerstatus.com/
-status: degraded
+status: up
 code: 200
-responseTime: 212
-lastUpdated: 2025-02-03T23:12:42.348Z
+responseTime: 309
+lastUpdated: 2025-02-04T19:17:48.673Z
 startTime: 2024-12-22T22:56:37.901Z
 generator: Upptime <https://github.com/upptime/upptime>
