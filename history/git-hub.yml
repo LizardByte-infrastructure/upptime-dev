@@ -1,7 +1,7 @@
 url: https://www.githubstatus.com/
-status: up
+status: degraded
 code: 200
-responseTime: 155
-lastUpdated: 2025-02-26T23:13:45.166Z
+responseTime: 248
+lastUpdated: 2025-02-27T11:29:29.386Z
 startTime: 2024-12-22T15:21:07.951Z
 generator: Upptime <https://github.com/upptime/upptime>
