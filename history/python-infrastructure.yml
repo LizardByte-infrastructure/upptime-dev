@@ -1,7 +1,7 @@
 url: https://status.python.org/
-status: up
-code: 200
-responseTime: 226
-lastUpdated: 2025-03-07T23:11:19.176Z
+status: degraded
+code: 405
+responseTime: 113
+lastUpdated: 2025-03-08T20:37:36.147Z
 startTime: 2024-12-22T15:21:08.940Z
 generator: Upptime <https://github.com/upptime/upptime>
