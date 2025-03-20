@@ -1,7 +1,7 @@
 url: https://status.crowdin.com/
-status: up
-code: 200
-responseTime: 921
-lastUpdated: 2025-03-19T23:14:41.446Z
+status: degraded
+code: 405
+responseTime: 103
+lastUpdated: 2025-03-20T16:29:46.049Z
 startTime: 2024-12-22T15:21:06.438Z
 generator: Upptime <https://github.com/upptime/upptime>
