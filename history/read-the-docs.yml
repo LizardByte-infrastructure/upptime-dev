@@ -1,7 +1,7 @@
 url: https://status.readthedocs.com/checks?sEcho=1&iColumns=1&sColumns=status&iDisplayStart=0&iDisplayLength=50
-status: degraded
+status: up
 code: 200
-responseTime: 573
-lastUpdated: 2025-04-05T08:59:21.854Z
+responseTime: 487
+lastUpdated: 2025-04-05T10:56:30.577Z
 startTime: 2024-12-22T15:21:09.602Z
 generator: Upptime <https://github.com/upptime/upptime>
