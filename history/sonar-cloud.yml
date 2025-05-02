@@ -1,7 +1,7 @@
 url: https://sonarcloud.statuspage.io/
-status: up
-code: 200
-responseTime: 312
-lastUpdated: 2025-05-01T23:14:41.996Z
+status: degraded
+code: 405
+responseTime: 108
+lastUpdated: 2025-05-02T22:19:56.136Z
 startTime: 2024-12-22T15:21:10.373Z
 generator: Upptime <https://github.com/upptime/upptime>
