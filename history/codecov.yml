@@ -1,7 +1,7 @@
 url: https://status.codecov.com/
-status: degraded
-code: 405
-responseTime: 365
-lastUpdated: 2025-08-26T12:46:50.956Z
+status: up
+code: 200
+responseTime: 275
+lastUpdated: 2025-08-26T13:23:34.847Z
 startTime: 2024-12-22T15:21:05.807Z
 generator: Upptime <https://github.com/upptime/upptime>
