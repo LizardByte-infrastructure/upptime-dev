@@ -1,7 +1,7 @@
 url: https://status.fedoraproject.org/
-status: degraded
+status: up
 code: 200
-responseTime: 245
-lastUpdated: 2025-09-10T23:13:34.953Z
+responseTime: 696
+lastUpdated: 2025-09-11T11:37:59.580Z
 startTime: 2024-12-22T15:21:07.504Z
 generator: Upptime <https://github.com/upptime/upptime>
