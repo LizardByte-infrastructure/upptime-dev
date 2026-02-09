@@ -4,16 +4,16 @@
     "url": "https://status.codecov.com/",
     "icon": "https://icons.duckduckgo.com/ip3/status.codecov.com.ico",
     "slug": "codecov",
-    "status": "up",
-    "uptime": "96.28%",
-    "uptimeDay": "83.78%",
+    "status": "degraded",
+    "uptime": "96.29%",
+    "uptimeDay": "83.77%",
     "uptimeWeek": "93.63%",
     "uptimeMonth": "97.73%",
     "uptimeYear": "95.79%",
     "time": 642,
-    "timeDay": 610,
-    "timeWeek": 551,
-    "timeMonth": 643,
+    "timeDay": 604,
+    "timeWeek": 552,
+    "timeMonth": 642,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2026-02-09": 181,
@@ -105,8 +105,7 @@
       "2025-05-08": 514,
       "2025-05-07": 102,
       "2025-05-05": 20,
-      "2025-05-03": 31,
-      "2025-05-02": 20
+      "2025-05-03": 31
     }
   },
   {
@@ -413,19 +412,19 @@
     "url": "https://www.githubstatus.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
-    "status": "up",
-    "uptime": "97.04%",
-    "uptimeDay": "78.24%",
+    "status": "degraded",
+    "uptime": "97.05%",
+    "uptimeDay": "78.20%",
     "uptimeWeek": "88.21%",
     "uptimeMonth": "92.32%",
     "uptimeYear": "96.65%",
     "time": 237,
-    "timeDay": 139,
-    "timeWeek": 146,
-    "timeMonth": 256,
+    "timeDay": 173,
+    "timeWeek": 153,
+    "timeMonth": 257,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2026-02-09": 313,
+      "2026-02-09": 314,
       "2026-02-06": 158,
       "2026-02-03": 355,
       "2026-02-02": 362,
@@ -506,8 +505,7 @@
       "2025-08-26": 37,
       "2025-08-21": 180,
       "2025-08-20": 20,
-      "2025-08-19": 64,
-      "2025-08-14": 24
+      "2025-08-19": 64
     }
   },
   {
