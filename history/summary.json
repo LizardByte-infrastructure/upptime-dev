@@ -8,12 +8,12 @@
     "uptime": "96.25%",
     "uptimeDay": "88.93%",
     "uptimeWeek": "92.52%",
-    "uptimeMonth": "96.55%",
+    "uptimeMonth": "96.62%",
     "uptimeYear": "95.72%",
     "time": 641,
     "timeDay": 616,
     "timeWeek": 595,
-    "timeMonth": 635,
+    "timeMonth": 631,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2026-02-11": 159,
@@ -410,16 +410,16 @@
     "url": "https://www.githubstatus.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
-    "status": "up",
+    "status": "degraded",
     "uptime": "96.79%",
-    "uptimeDay": "53.73%",
+    "uptimeDay": "53.70%",
     "uptimeWeek": "76.11%",
-    "uptimeMonth": "89.23%",
-    "uptimeYear": "96.33%",
+    "uptimeMonth": "89.30%",
+    "uptimeYear": "96.34%",
     "time": 235,
-    "timeDay": 122,
-    "timeWeek": 140,
-    "timeMonth": 242,
+    "timeDay": 120,
+    "timeWeek": 139,
+    "timeMonth": 239,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2026-02-12": 290,
@@ -502,8 +502,7 @@
       "2025-08-30": 35,
       "2025-08-29": 19,
       "2025-08-28": 37,
-      "2025-08-27": 56,
-      "2025-08-26": 37
+      "2025-08-27": 56
     }
   },
   {
