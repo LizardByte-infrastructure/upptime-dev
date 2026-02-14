@@ -1,7 +1,7 @@
 url: https://status.readthedocs.com/checks?sEcho=1&iColumns=1&sColumns=status&iDisplayStart=0&iDisplayLength=50
-status: up
-code: 200
-responseTime: 821
-lastUpdated: 2026-02-13T23:27:01.308Z
+status: down
+code: 500
+responseTime: 10544
+lastUpdated: 2026-02-14T07:49:53.358Z
 startTime: 2024-12-22T15:21:09.602Z
 generator: Upptime <https://github.com/upptime/upptime>
