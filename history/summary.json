@@ -10,11 +10,11 @@
     "uptimeWeek": "96.44%",
     "uptimeMonth": "96.20%",
     "uptimeYear": "95.92%",
-    "time": 637,
-    "timeDay": 273,
-    "timeWeek": 500,
-    "timeMonth": 531,
-    "timeYear": 648,
+    "time": 636,
+    "timeDay": 238,
+    "timeWeek": 463,
+    "timeMonth": 527,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2026-02-21": 359,
       "2026-02-18": 46,
@@ -118,10 +118,10 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.50%",
     "time": 533,
-    "timeDay": 130,
-    "timeWeek": 215,
-    "timeMonth": 263,
-    "timeYear": 536,
+    "timeDay": 160,
+    "timeWeek": 196,
+    "timeMonth": 258,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2026-01-29": 51,
       "2026-01-19": 25,
@@ -189,8 +189,7 @@
       "2025-03-04": 3,
       "2025-03-02": 17,
       "2025-03-01": 29,
-      "2025-02-28": 38,
-      "2025-02-26": 11
+      "2025-02-28": 38
     }
   },
   {
@@ -199,15 +198,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dockerstatus.com.ico",
     "slug": "docker-infrastructure",
     "status": "up",
-    "uptime": "84.33%",
+    "uptime": "84.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.03%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "92.22%",
+    "uptimeYear": "92.28%",
     "time": 323,
-    "timeDay": 341,
-    "timeWeek": 294,
-    "timeMonth": 372,
+    "timeDay": 279,
+    "timeWeek": 296,
+    "timeMonth": 374,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2026-02-24": 62,
@@ -284,8 +283,7 @@
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
-      "2025-02-27": 1440,
-      "2025-02-26": 1440
+      "2025-02-27": 1440
     }
   },
   {
@@ -294,15 +292,15 @@
     "icon": "https://fedoraproject.org/favicon.ico",
     "slug": "fedora-infrastructure",
     "status": "up",
-    "uptime": "93.34%",
+    "uptime": "93.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.20%",
     "uptimeYear": "92.29%",
     "time": 504,
-    "timeDay": 283,
-    "timeWeek": 442,
-    "timeMonth": 388,
+    "timeDay": 244,
+    "timeWeek": 430,
+    "timeMonth": 377,
     "timeYear": 500,
     "dailyMinutesDown": {
       "2026-02-06": 150,
@@ -376,10 +374,10 @@
     "uptimeMonth": "85.12%",
     "uptimeYear": "96.31%",
     "time": 417,
-    "timeDay": 224,
-    "timeWeek": 411,
-    "timeMonth": 334,
-    "timeYear": 421,
+    "timeDay": 349,
+    "timeWeek": 399,
+    "timeMonth": 331,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2026-02-23": 929,
       "2026-02-22": 1440,
@@ -411,9 +409,9 @@
     "uptimeMonth": "89.66%",
     "uptimeYear": "96.17%",
     "time": 234,
-    "timeDay": 152,
-    "timeWeek": 210,
-    "timeMonth": 174,
+    "timeDay": 229,
+    "timeWeek": 212,
+    "timeMonth": 175,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2026-02-24": 174,
@@ -510,10 +508,10 @@
     "uptimeDay": "97.25%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.53%",
-    "uptimeYear": "99.05%",
+    "uptimeYear": "99.06%",
     "time": 336,
-    "timeDay": 207,
-    "timeWeek": 234,
+    "timeDay": 211,
+    "timeWeek": 230,
     "timeMonth": 223,
     "timeYear": 351,
     "dailyMinutesDown": {
@@ -580,8 +578,7 @@
       "2025-03-05": 16,
       "2025-03-02": 17,
       "2025-03-01": 29,
-      "2025-02-28": 38,
-      "2025-02-26": 30
+      "2025-02-28": 38
     }
   },
   {
@@ -595,11 +592,11 @@
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "98.43%",
-    "time": 522,
-    "timeDay": 319,
-    "timeWeek": 311,
-    "timeMonth": 308,
-    "timeYear": 531,
+    "time": 521,
+    "timeDay": 288,
+    "timeWeek": 301,
+    "timeMonth": 310,
+    "timeYear": 530,
     "dailyMinutesDown": {
       "2026-02-20": 2,
       "2026-02-19": 57,
@@ -689,11 +686,11 @@
     "uptimeWeek": "98.00%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.57%",
-    "time": 1560,
-    "timeDay": 4665,
-    "timeWeek": 3362,
-    "timeMonth": 2646,
-    "timeYear": 1634,
+    "time": 1563,
+    "timeDay": 4983,
+    "timeWeek": 3371,
+    "timeMonth": 2652,
+    "timeYear": 1639,
     "dailyMinutesDown": {
       "2026-02-25": 121,
       "2026-02-20": 80,
@@ -760,9 +757,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.37%",
     "time": 500,
-    "timeDay": 252,
-    "timeWeek": 338,
-    "timeMonth": 505,
+    "timeDay": 273,
+    "timeWeek": 315,
+    "timeMonth": 322,
     "timeYear": 529,
     "dailyMinutesDown": {
       "2026-02-13": 41,
@@ -829,8 +826,7 @@
       "2025-03-05": 16,
       "2025-03-02": 17,
       "2025-03-01": 29,
-      "2025-02-28": 38,
-      "2025-02-26": 30
+      "2025-02-28": 38
     }
   }
 ]
