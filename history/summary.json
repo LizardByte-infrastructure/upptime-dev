@@ -4,16 +4,16 @@
     "url": "https://status.codecov.com/",
     "icon": "https://icons.duckduckgo.com/ip3/status.codecov.com.ico",
     "slug": "codecov",
-    "status": "up",
-    "uptime": "96.55%",
-    "uptimeDay": "96.07%",
+    "status": "degraded",
+    "uptime": "96.56%",
+    "uptimeDay": "96.04%",
     "uptimeWeek": "88.31%",
     "uptimeMonth": "94.23%",
-    "uptimeYear": "95.80%",
+    "uptimeYear": "95.81%",
     "time": 632,
-    "timeDay": 414,
-    "timeWeek": 525,
-    "timeMonth": 494,
+    "timeDay": 463,
+    "timeWeek": 529,
+    "timeMonth": 496,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2026-03-12": 57,
@@ -102,8 +102,7 @@
       "2025-06-25": 155,
       "2025-06-13": 238,
       "2025-06-12": 151,
-      "2025-06-11": 82,
-      "2025-06-10": 11
+      "2025-06-11": 82
     }
   },
   {
@@ -392,7 +391,7 @@
     "uptime": "97.21%",
     "uptimeDay": "79.63%",
     "uptimeWeek": "90.51%",
-    "uptimeMonth": "92.88%",
+    "uptimeMonth": "93.00%",
     "uptimeYear": "96.60%",
     "time": 232,
     "timeDay": 155,
