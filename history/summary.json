@@ -6,15 +6,15 @@
     "slug": "codecov",
     "status": "up",
     "uptime": "96.07%",
-    "uptimeDay": "4.64%",
+    "uptimeDay": "87.51%",
     "uptimeWeek": "58.95%",
-    "uptimeMonth": "84.27%",
+    "uptimeMonth": "85.09%",
     "uptimeYear": "95.11%",
     "time": 621,
-    "timeDay": 501,
-    "timeWeek": 838,
-    "timeMonth": 590,
-    "timeYear": 668,
+    "timeDay": 605,
+    "timeWeek": 849,
+    "timeMonth": 599,
+    "timeYear": 663,
     "dailyMinutesDown": {
       "2026-03-21": 292,
       "2026-03-20": 1374,
@@ -119,10 +119,10 @@
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.58%",
     "time": 518,
-    "timeDay": 306,
-    "timeWeek": 217,
-    "timeMonth": 216,
-    "timeYear": 517,
+    "timeDay": 562,
+    "timeWeek": 255,
+    "timeMonth": 226,
+    "timeYear": 507,
     "dailyMinutesDown": {
       "2026-03-16": 67,
       "2026-03-12": 51,
@@ -179,8 +179,7 @@
       "2025-03-26": 37,
       "2025-03-25": 16,
       "2025-03-24": 53,
-      "2025-03-23": 59,
-      "2025-03-22": 23
+      "2025-03-23": 59
     }
   },
   {
@@ -189,15 +188,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dockerstatus.com.ico",
     "slug": "docker-infrastructure",
     "status": "up",
-    "uptime": "85.13%",
+    "uptime": "85.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "94.72%",
     "time": 321,
-    "timeDay": 334,
-    "timeWeek": 267,
-    "timeMonth": 290,
+    "timeDay": 418,
+    "timeWeek": 286,
+    "timeMonth": 295,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2026-03-07": 69,
@@ -275,16 +274,16 @@
     "icon": "https://fedoraproject.org/favicon.ico",
     "slug": "fedora-infrastructure",
     "status": "up",
-    "uptime": "93.69%",
+    "uptime": "93.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.29%",
     "time": 507,
-    "timeDay": 450,
-    "timeWeek": 488,
-    "timeMonth": 542,
-    "timeYear": 508,
+    "timeDay": 443,
+    "timeWeek": 402,
+    "timeMonth": 553,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2026-02-06": 150,
       "2026-02-05": 295,
@@ -351,15 +350,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.flathub.org.ico",
     "slug": "flathub",
     "status": "up",
-    "uptime": "97.03%",
+    "uptime": "97.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.97%",
+    "uptimeMonth": "94.85%",
     "uptimeYear": "96.31%",
-    "time": 412,
-    "timeDay": 201,
-    "timeWeek": 329,
-    "timeMonth": 331,
+    "time": 411,
+    "timeDay": 165,
+    "timeWeek": 311,
+    "timeMonth": 330,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2026-02-23": 929,
@@ -386,15 +385,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "97.51%",
+    "uptime": "97.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.43%",
     "uptimeMonth": "91.34%",
     "uptimeYear": "96.91%",
     "time": 231,
-    "timeDay": 288,
-    "timeWeek": 184,
-    "timeMonth": 185,
+    "timeDay": 277,
+    "timeWeek": 192,
+    "timeMonth": 187,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2026-03-20": 55,
@@ -488,9 +487,9 @@
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.06%",
     "time": 331,
-    "timeDay": 308,
-    "timeWeek": 231,
-    "timeMonth": 218,
+    "timeDay": 313,
+    "timeWeek": 244,
+    "timeMonth": 220,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2026-03-05": 379,
@@ -545,8 +544,7 @@
       "2025-03-26": 21,
       "2025-03-25": 16,
       "2025-03-24": 27,
-      "2025-03-23": 59,
-      "2025-03-22": 23
+      "2025-03-23": 59
     }
   },
   {
@@ -561,10 +559,10 @@
     "uptimeMonth": "99.22%",
     "uptimeYear": "98.47%",
     "time": 514,
-    "timeDay": 555,
-    "timeWeek": 413,
-    "timeMonth": 347,
-    "timeYear": 525,
+    "timeDay": 385,
+    "timeWeek": 436,
+    "timeMonth": 350,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2026-03-08": 40,
       "2026-03-02": 54,
@@ -632,8 +630,7 @@
       "2025-03-26": 21,
       "2025-03-25": 47,
       "2025-03-24": 28,
-      "2025-03-23": 59,
-      "2025-03-22": 23
+      "2025-03-23": 59
     }
   },
   {
@@ -647,10 +644,10 @@
     "uptimeWeek": "99.39%",
     "uptimeMonth": "96.21%",
     "uptimeYear": "99.29%",
-    "time": 1629,
-    "timeDay": 365,
-    "timeWeek": 2049,
-    "timeMonth": 2735,
+    "time": 1628,
+    "timeDay": 775,
+    "timeWeek": 1591,
+    "timeMonth": 2739,
     "timeYear": 1728,
     "dailyMinutesDown": {
       "2026-03-17": 62,
@@ -707,8 +704,7 @@
       "2025-03-27": 28,
       "2025-03-26": 18,
       "2025-03-25": 14,
-      "2025-03-23": 15,
-      "2025-03-22": 71
+      "2025-03-23": 15
     }
   },
   {
@@ -723,10 +719,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.48%",
     "time": 492,
-    "timeDay": 331,
-    "timeWeek": 329,
-    "timeMonth": 296,
-    "timeYear": 543,
+    "timeDay": 371,
+    "timeWeek": 333,
+    "timeMonth": 293,
+    "timeYear": 534,
     "dailyMinutesDown": {
       "2026-03-01": 24,
       "2026-02-13": 41,
@@ -780,8 +776,7 @@
       "2025-03-26": 21,
       "2025-03-25": 16,
       "2025-03-24": 28,
-      "2025-03-23": 59,
-      "2025-03-22": 23
+      "2025-03-23": 59
     }
   }
 ]
