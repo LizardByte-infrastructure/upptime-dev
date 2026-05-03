@@ -4,19 +4,19 @@
     "url": "https://status.canonical.com/sp/api/public/summary_details/statuspages/KNms6QK9ewuzz-7xUsPsN927u5djVcb3oZX1-zOu_go=?period=2&timezone=Etc/UTC",
     "icon": "https://icons.duckduckgo.com/ip3/status.canonical.com.ico",
     "slug": "canonical",
-    "status": "degraded",
-    "uptime": "61.32%",
-    "uptimeDay": "61.32%",
-    "uptimeWeek": "61.32%",
-    "uptimeMonth": "61.32%",
-    "uptimeYear": "61.32%",
-    "time": 933,
-    "timeDay": 933,
-    "timeWeek": 933,
-    "timeMonth": 933,
-    "timeYear": 933,
+    "status": "up",
+    "uptime": "58.37%",
+    "uptimeDay": "58.37%",
+    "uptimeWeek": "58.37%",
+    "uptimeMonth": "58.37%",
+    "uptimeYear": "58.37%",
+    "time": 906,
+    "timeDay": 906,
+    "timeWeek": 906,
+    "timeMonth": 906,
+    "timeYear": 906,
     "dailyMinutesDown": {
-      "2026-05-03": 408
+      "2026-05-03": 462
     }
   },
   {
