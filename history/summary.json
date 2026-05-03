@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.canonical.com.ico",
     "slug": "canonical",
     "status": "degraded",
-    "uptime": "81.36%",
-    "uptimeDay": "81.36%",
-    "uptimeWeek": "81.36%",
-    "uptimeMonth": "81.36%",
-    "uptimeYear": "81.36%",
+    "uptime": "69.14%",
+    "uptimeDay": "69.14%",
+    "uptimeWeek": "69.14%",
+    "uptimeMonth": "69.14%",
+    "uptimeYear": "69.14%",
     "time": 862,
     "timeDay": 862,
     "timeWeek": 862,
     "timeMonth": 862,
     "timeYear": 862,
     "dailyMinutesDown": {
-      "2026-05-03": 61
+      "2026-05-03": 119
     }
   },
   {
