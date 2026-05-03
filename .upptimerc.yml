@@ -49,6 +49,9 @@ sites:
       - "X-Requested-With: XMLHttpRequest"
       - "Referer: https://status.readthedocs.com/"
     __dangerous__body_degraded: 'Current status: Down'
+  - name: Rust
+    url: https://status.crates.io/
+    __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
   - name: SonarCloud
     url: https://sonarcloud.statuspage.io/
     __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
