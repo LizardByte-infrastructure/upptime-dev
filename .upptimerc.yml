@@ -13,8 +13,10 @@ workflowSchedule:
 
 sites:
   - name: Canonical
-    url: https://status.canonical.com/
-    __dangerous__body_degraded: 'Active Incident'
+    url: "https://status.canonical.com/sp/api/public/summary_details/statuspages/KNms6QK9ewuzz-7xUsPsN927u5djVcb3oZX1-zOu_go=?period=2&timezone=Etc/UTC"
+    headers:
+      - "Accept: application/json"
+    __dangerous__body_degraded_if_text_missing: '"active_incident_details":[]'
   - name: Codecov
     url: https://status.codecov.com/
     __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
