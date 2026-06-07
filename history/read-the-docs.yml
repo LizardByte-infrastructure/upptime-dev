@@ -1,7 +1,7 @@
 url: https://status.readthedocs.com/checks?sEcho=1&iColumns=1&sColumns=status&iDisplayStart=0&iDisplayLength=50
 status: up
 code: 200
-responseTime: 349
-lastUpdated: 2026-06-06T00:03:14.025Z
+responseTime: 1513
+lastUpdated: 2026-06-07T00:01:00.897Z
 startTime: 2024-12-22T15:21:09.602Z
 generator: Upptime <https://github.com/upptime/upptime>
