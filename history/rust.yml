@@ -1,7 +1,7 @@
 url: https://status.crates.io/
-status: up
-code: 200
-responseTime: 526
-lastUpdated: 2026-06-18T00:13:13.924Z
+status: degraded
+code: 405
+responseTime: 33
+lastUpdated: 2026-06-18T06:28:09.593Z
 startTime: 2026-05-03T01:31:58.005Z
 generator: Upptime <https://github.com/upptime/upptime>
