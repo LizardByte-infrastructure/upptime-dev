@@ -1,7 +1,7 @@
 url: https://status.canonical.com/sp/api/public/summary_details/statuspages/KNms6QK9ewuzz-7xUsPsN927u5djVcb3oZX1-zOu_go=?period=2&timezone=Etc/UTC
-status: degraded
+status: up
 code: 200
-responseTime: 423
-lastUpdated: 2026-07-14T21:09:06.120Z
+responseTime: 629
+lastUpdated: 2026-07-14T22:11:43.832Z
 startTime: 2026-05-02T20:04:22.235Z
 generator: Upptime <https://github.com/upptime/upptime>
