@@ -1,7 +1,7 @@
 url: https://status.flathub.org/
-status: up
+status: degraded
 code: 200
-responseTime: 361
-lastUpdated: 2026-07-19T23:53:27.963Z
+responseTime: 12
+lastUpdated: 2026-07-20T04:09:09.392Z
 startTime: 2024-12-22T22:55:00.771Z
 generator: Upptime <https://github.com/upptime/upptime>
