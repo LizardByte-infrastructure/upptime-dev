@@ -1,7 +1,7 @@
 url: https://status.lemonsqueezy.com/
-status: up
+status: degraded
 code: 200
-responseTime: 595
-lastUpdated: 2026-07-24T02:50:36.208Z
+responseTime: 853
+lastUpdated: 2026-07-24T03:49:01.359Z
 startTime: 2026-07-24T02:44:07.997Z
 generator: Upptime <https://github.com/upptime/upptime>
