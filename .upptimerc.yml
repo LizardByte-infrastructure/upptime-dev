@@ -81,14 +81,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: night
-  # custom js
-  scripts:
-    - src: https://cdn.jsdelivr.net/npm/@lizardbyte/shared-web@latest/dist/discord.js
-  js: |
-    window.onload = function() { window.initDiscord() }
-    document.addEventListener("DOMContentLoaded", function() {
-        document.title = "Status (Dev) | LizardByte";
-    });
 
 # https://upptime.js.org/docs/configuration#repository-metadata
 skipDescriptionUpdate: true
