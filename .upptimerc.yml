@@ -36,12 +36,12 @@ sites:
   - name: GitHub
     url: https://www.githubstatus.com/
     __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
-  - name: lemon squeezy
-    url: https://status.lemonsqueezy.com/
-    __dangerous__body_degraded: 'Problems detected.'
   - name: npm
     url: https://status.npmjs.org/
     __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
+  - name: Polar
+    url: https://status.polar.sh/
+    __dangerous__body_degraded_if_text_missing: 'All services are online'
   - name: Python Infrastructure
     url: https://status.python.org/
     __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
