@@ -17,6 +17,9 @@ sites:
     headers:
       - "Accept: application/json"
     __dangerous__body_degraded_if_text_missing: '"active_incident_details":[]'
+  - name: Cloudsmith
+    url: https://status.cloudsmith.com/
+    __dangerous__body_degraded_if_text_missing: 'We’re fully operational'
   - name: Codecov
     url: https://status.codecov.com/
     __dangerous__body_degraded_if_text_missing: 'All Systems Operational'
