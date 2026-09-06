@@ -1,7 +1,7 @@
 url: https://status.sonarqube.com/
-status: up
+status: degraded
 code: 200
-responseTime: 224
-lastUpdated: 2026-09-06T00:31:59.837Z
+responseTime: 36
+lastUpdated: 2026-09-06T08:47:50.784Z
 startTime: 2026-07-24T02:50:40.322Z
 generator: Upptime <https://github.com/upptime/upptime>
